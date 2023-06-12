@@ -1,0 +1,15 @@
+{
+  "name": "trial-express",
+  "version": "1.0.0",
+  "description": "Trial Express app",
+ 
+  "main": "Server.js",
+  "scripts": {
+    "start":"nodemon Server.js"
+  },
+  "author": "Eve Candy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
